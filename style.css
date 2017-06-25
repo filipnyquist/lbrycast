@@ -1,0 +1,20 @@
+.background {
+  background: center no-repeat url(background.png);
+}
+
+.logo {
+  background-image: url(logo.png);
+}
+
+.progressBar {
+  background-color: rgb(21,91,74);
+}
+
+.splash {
+  background-image: url(splash.png);
+}
+
+.watermark {
+  background-image: url(https://gitcdn.xyz/cdn/filipnyquist/lbrycast/master/watermark.png);
+  background-size: 57px 57px;
+}
